@@ -1,0 +1,17 @@
+# React Native / Expo
+node_modules/
+.expo/
+dist/
+web-build/
+
+# Flutter / Dart
+build/
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+
+# Archivos de sistema y editores
+.DS_Store
+Thumbs.db
+*.log
